@@ -38,11 +38,17 @@
 - 可运行demo
 - 文件说明
 > Weights：权重文件
+
 > Data：示例图片
+
 > Bitstream.tcl : hw
+
 > Bitstream.bit : hw
+
 > Fingernet_DF_FPGA.ipynb : demo program
+
 > CNNIOT.py : driver wrapper
+
 
 ## Doc
 - 用于存放暑期学校相关提交文档
