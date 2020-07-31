@@ -24,7 +24,7 @@
 * 以[Anguli](https://dsl.cds.iisc.ac.in/projects/Anguli/index.html#about)提供的指纹生成器所产生的指纹数据集，成功实现了方向场提取的功能
 * 编写了能够展示方向场提取结果的软件程序，方便查看结果
 
-- ***if you want to try our demo***
+## *if you want to try our demo*
 
 ### pre：有pynq-z2的运行环境
 
